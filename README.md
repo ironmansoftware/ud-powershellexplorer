@@ -1,4 +1,4 @@
-# ud-powershellexplorer
+# PowerShell Explorer
 PowerShell Explorer shows information about the PowerShell environment on your machine.
 
 ![](./images/home.png)
