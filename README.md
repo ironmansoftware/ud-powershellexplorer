@@ -1,4 +1,7 @@
 # PowerShell Explorer
+
+## [Marketplace](https://ironmansoftware.com/product/powershell-explorer-dashboard/)
+
 PowerShell Explorer shows information about the PowerShell environment on your machine.
 
 ![](./images/home.png)
